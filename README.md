@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cjpatel73
-- 👀 I’m interested in becoming a AWS Cloud Professional
-- 🌱 I’m currently learning Python
+- 👀 I’m an AWS Cloud Professional
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me cjpatel73@gmail.com
 - 😄 Pronouns: He/Him
